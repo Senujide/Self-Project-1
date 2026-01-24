@@ -43,7 +43,7 @@ These steps ensured the dataset was suitable for analysis and modeling.
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 Exploratory data analysis was conducted to:
 - Understand sales trends over time  
 - Analyze customer purchase frequency  
