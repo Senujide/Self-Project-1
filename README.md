@@ -97,7 +97,7 @@ Dashboard screenshots are stored in the following paths:
 
 ---
 
-## 🛠 Tools and Technologies
+## Tools and Technologies
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)  
 - Jupyter Notebook  
 - Power BI  
