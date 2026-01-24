@@ -133,7 +133,7 @@ screenshots/drill_through_analysis.png
 ---
 
 ## 👩‍💻 Author
-**Senuji**  
+**Senuji De Costa**  
 Undergraduate at University of Moratuwa
 
 
