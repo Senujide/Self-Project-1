@@ -84,7 +84,7 @@ An interactive Power BI dashboard was developed to visualize insights clearly an
 ### Dashboard Screenshots
 Dashboard screenshots are stored in the following paths:
 ![Dashboard Overview](screenshots/dashboard_overview.png)
-![Customer Segmentation](screenshots/customer_segmentation.png)
+![Customer Segmentation](screenshots/diagnostics_analysis.png)
 ![Drill Through Analysis](screenshots/drill_through_analysis.png)
   
 ---
