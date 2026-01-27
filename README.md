@@ -55,7 +55,9 @@ Insights from this stage guided the selection of features used for customer segm
 ---
 
 ## Customer Segmentation Methodology
-Customer segmentation was performed using clustering techniques in Python.
+Customer segmentation was performed using K-Means clustering, an unsupervised machine learning algorithm 
+used to identify natural groupings in customer purchasing behavior.
+
 
 ### Features Used
 - Age
@@ -67,13 +69,25 @@ After feature scaling, customers were grouped into distinct segments representin
 
 ---
 
+## Project Architecture
+Python was used for data cleaning, exploratory data analysis, feature engineering, and K-Means clustering. 
+The clustered dataset was then exported and connected to Power BI, where interactive dashboards were 
+built to visualize customer segments, sales trends, and behavioral insights. 
+This end-to-end workflow ensures alignment between machine learning outputs and business reporting.
+
+---
+
 ## Power BI Dashboard
 An interactive Power BI dashboard was developed to visualize insights clearly and effectively.
 Power BI (.pbix) files are stored using Git LFS due to GitHub file size limits.
 
+The Power BI dashboard integrates machine learning outputs with key business performance indicators 
+(KPIs), enabling both high-level monitoring and detailed diagnostic analysis of customer behavior 
+across different segments and time periods.
+
 
 ### Dashboard Includes
-- KPI Total Customers, Sales, Transatcions
+- KPI Total Customers, Sales, Transactions
 - Repeat Customer Trend Analysis  
 - Sales Trend Over The Time  
 - Customer Segment Distribution
@@ -92,10 +106,10 @@ Dashboard screenshots are stored in the following paths:
 ---
 
 ## Key Insights
-- A small percentage of customers contribute a large share of total revenue  
-- Repeat customers contribute for majority of sales over time  
-- Customer segmentation enables targeted marketing strategies  
-- Identifying at-risk customers supports proactive retention efforts  
+- A small percentage of customers contribute a large share of total revenue.
+- Repeat customers contribute the majority of total sales over time. 
+- Customer segmentation enables targeted marketing strategies.
+- Identifying at-risk customers supports proactive retention efforts.
 
 ---
 
