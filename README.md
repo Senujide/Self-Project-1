@@ -69,6 +69,8 @@ After feature scaling, customers were grouped into distinct segments representin
 
 ## Power BI Dashboard
 An interactive Power BI dashboard was developed to visualize insights clearly and effectively.
+Power BI (.pbix) files are stored using Git LFS due to GitHub file size limits.
+
 
 ### Dashboard Includes
 - KPI Total Customers, Sales, Transatcions
