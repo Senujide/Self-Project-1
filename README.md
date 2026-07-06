@@ -100,8 +100,8 @@ across different segments and time periods.
 ### Dashboard Screenshots
 Dashboard screenshots are stored in the following paths:
 ![Dashboard Overview](Business_Overview.png)
-![Customer Segmentation](screenshots/diagnostics_analysis.png)
-![Drill Through Analysis](screenshots/drill_through_analysis.png)
+![Customer Segmentation](Diagnostic_Analysis.png)
+![Drill Through Analysis](Detail_Analysis.png)
   
 ---
 
